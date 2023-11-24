@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "key": "agzy",
+    "name": "环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 2,
+    "key": "dadizy",
+    "name": "大地资源",
+    "api": "https://dadiapi.com/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 3,
+    "key": "NhTLgM",
+    "name": "76特殊.色色",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 4,
+    "key": "LYCe0z",
+    "name": "78特殊.乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "4btciy",
+    "id": 5,
+    "name": "84特殊.鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "RRvupO",
+    "id": 6,
+    "name": "96特殊.av88资源",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "可用"
+  }
+]
