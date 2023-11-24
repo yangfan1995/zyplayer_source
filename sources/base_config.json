@@ -1083,17 +1083,6 @@
       "resource": 95547
     },
     {
-      "id": 25,
-      "key": "芒果资源",
-      "name": "芒果资源",
-      "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
-      "download": "",
-      "group": "福利",
-      "type": 0,
-      "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
-      "search": 2
-    },
-    {
       "id": 26,
       "key": "花魁资源",
       "name": "花魁资源",
@@ -1126,9 +1115,11 @@
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "download": "",
       "group": "福利",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 121872
     },
     {
       "id": 29,
@@ -1163,7 +1154,7 @@
       "api": "http://m.7777688.com/inc/api.php",
       "download": "",
       "group": "福利",
-      "type": 0,
+      "type": 4,
       "playUrl": "",
       "search": 2
     },
@@ -1187,7 +1178,7 @@
       "api": "http://bttcj.com/inc/sapi.php",
       "download": "",
       "group": "福利",
-      "type": 1,
+      "type": 4,
       "playUrl": "",
       "search": 0
     },
@@ -1274,9 +1265,11 @@
       "api": "https://lehootv.com/api.php/provide/vod/",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 95696
     },
     {
       "id": 41,
@@ -1285,9 +1278,11 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 45141
     },
     {
       "id": 42,
@@ -1296,9 +1291,11 @@
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 48590
     },
     {
       "id": 43,
@@ -1320,9 +1317,11 @@
       "api": "https://sdzyapi.com/api.php/provide/vod/",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 47993
     },
     {
       "id": 45,
@@ -1331,9 +1330,11 @@
       "api": "https://api.yparse.com/api/json",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 178249
     },
     {
       "id": 46,
@@ -1342,9 +1343,11 @@
       "api": "https://ckzy.me/api.php/provide/vod/",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 16766
     },
     {
       "id": 47,
@@ -1353,9 +1356,11 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 48830
     },
     {
       "id": 48,
@@ -1364,9 +1369,11 @@
       "api": "https://jyzyapi.com/provide/vod/",
       "download": "",
       "group": "默认",
-      "type": 0,
+      "type": 1,
       "playUrl": "",
-      "search": 2
+      "search": 2,
+      "isActive": true,
+      "resource": 48577
     },
     {
       "id": 49,
@@ -1907,7 +1914,7 @@
       "playUrl": "",
       "download": "",
       "group": "福利",
-      "type": 4,
+      "type": 1,
       "search": 2
     }
   ],
