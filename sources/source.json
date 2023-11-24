@@ -7,8 +7,8 @@
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -31,7 +31,7 @@
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
-    "isActive": true,
+    "isActive": false,
     "status": "可用",
     "reverseOrder": false
   },
@@ -43,8 +43,8 @@
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
     "group": "默认",
-    "isActive": true,
-    "status": "可用",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
@@ -60,64 +60,64 @@
     "status": "可用"
   },
   {
-    "id": 6,
     "key": "wmcj8",
+    "id": 6,
     "name": "环亚资源",
     "api": "http://wmcj8.com/inc/sapi.php",
     "download": "",
     "jiexiUrl": "",
-    "group": "其他",
+    "group": "福利",
     "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
-    "id": 7,
     "key": "dd",
+    "id": 7,
     "name": "大地",
     "api": "https://dadiapi.com/api.php",
     "download": "",
     "jiexiUrl": "",
-    "group": "其他",
+    "group": "福利",
     "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
-    "id": 8,
     "key": "bttcj",
+    "id": 8,
     "name": "BT天堂",
     "api": "http://bttcj.com/inc/sapi.php",
     "download": "",
     "jiexiUrl": "",
-    "group": "默认",
+    "group": "福利",
     "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
-    "id": 9,
     "key": "ldzyw",
+    "id": 9,
     "name": "乐多资源网",
     "api": "http://api.leduozy.com/inc/api.php",
     "download": "",
     "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
+    "group": "福利",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
-    "id": 10,
     "key": "hjzy",
+    "id": 10,
     "name": "花椒资源",
     "api": "https://apihjzy.com/api.php/Seacms/vod/",
     "download": "",
     "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
+    "group": "福利",
+    "isActive": false,
+    "reverseOrder": false,
+    "status": "失效"
   },
   {
     "key": "lb",
@@ -126,22 +126,22 @@
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "",
-    "group": "其他",
+    "group": "福利",
     "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "sy",
     "id": 12,
-    "name": "shayu",
+    "name": "鲨鱼",
     "api": "https://shayuapi.com/api.php/Seacms/vod/",
     "download": "",
     "jiexiUrl": "",
-    "group": "其他",
+    "group": "福利",
     "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
+    "reverseOrder": false,
+    "status": "可用"
   },
   {
     "key": "76",
@@ -150,24 +150,13 @@
     "api": "http://m.7777688.com/inc/api.php",
     "download": "",
     "jiexiUrl": "",
-    "group": "其他",
-    "isActive": true,
-    "status": "可用",
+    "group": "福利",
+    "isActive": false,
+    "status": "失效",
     "reverseOrder": false
   },
   {
-    "id": 1,
-    "key": "agzy",
-    "name": "环亚资源",
-    "api": "http://wmcj8.com/inc/sapi.php",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "reverseOrder": false,
-    "status": "可用"
-  },
-  {
-    "id": 2,
+    "id": 14,
     "key": "dadizy",
     "name": "大地资源",
     "api": "https://dadiapi.com/api.php",
@@ -178,18 +167,18 @@
     "status": "可用"
   },
   {
-    "id": 3,
+    "id": 15,
     "key": "NhTLgM",
     "name": "76特殊.色色",
     "api": "http://m.7777688.com/inc/api.php",
     "download": "",
-    "isActive": true,
+    "isActive": false,
     "group": "福利",
     "reverseOrder": false,
-    "status": "可用"
+    "status": "失效"
   },
   {
-    "id": 4,
+    "id": 16,
     "key": "LYCe0z",
     "name": "78特殊.乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
@@ -201,7 +190,7 @@
   },
   {
     "key": "4btciy",
-    "id": 5,
+    "id": 17,
     "name": "84特殊.鲨鱼资源",
     "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
     "download": "",
@@ -212,15 +201,79 @@
   },
   {
     "key": "RRvupO",
-    "id": 6,
+    "id": 18,
     "name": "96特殊.av88资源",
     "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "id": 19,
+    "key": "kudianziyuan",
+    "name": "酷点资源",
+    "api": "https://api.kuapi.cc/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": false,
+    "group": "默认",
+    "reverseOrder": false,
+    "status": "失效"
+  },
+  {
+    "id": 20,
+    "key": "shandianziyuan",
+    "name": "闪电资源",
+    "api": "https://sdzyapi.com/api.php/provide/vod/from/sdyun/at/xmlsea/",
+    "download": "",
+    "isActive": true,
+    "group": "默认",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 21,
+    "key": "ukuziyuan",
+    "name": "u酷资源",
+    "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "默认",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 22,
+    "key": "semaoziyuan",
+    "name": "色猫",
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 23,
+    "key": "huakuiziyuan",
+    "name": "花魁资源",
+    "api": "https://caiji.huakuiapi.com/inc/api.php",
     "download": "",
     "isActive": true,
     "group": "福利",
     "reverseOrder": false,
     "status": "可用"
+  },
+  {
+    "id": 24,
+    "key": "芒果ziyuan",
+    "name": "芒果资源",
+    "api": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": false,
+    "group": "福利",
+    "reverseOrder": false,
+    "status": "失效"
   }
 ]
-
-
